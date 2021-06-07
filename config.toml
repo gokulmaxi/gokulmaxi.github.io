@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gokulmaxi.github.io/public"
+baseURL = "https://gokulmaxi.github.io"
 title = "Gokul | Portfolio "
 theme = "somrat"
 # post pagination
