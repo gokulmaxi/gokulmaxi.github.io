@@ -36,19 +36,19 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "ESP-IDF(FreeRTOS)"
+      percentage : "75%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "ROS"
       percentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
+    - name : "Linux"
+      percentage : "80%"
       
     # skill item loop
-    - name : "Wordpress"
+    - name : "Server management"
       percentage : "70%"
 
 
