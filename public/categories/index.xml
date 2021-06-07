@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gokul | Portfolio </title>
-    <link>https://examplesite.com/categories/</link>
+    <link>https://gokulmaxi.github.io/public/categories/</link>
     <description>Recent content in Categories on Gokul | Portfolio </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://gokulmaxi.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>database</title>
-      <link>https://examplesite.com/categories/database/</link>
+      <link>https://gokulmaxi.github.io/public/categories/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/categories/database/</guid>
+      <guid>https://gokulmaxi.github.io/public/categories/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://examplesite.com/categories/design/</link>
+      <link>https://gokulmaxi.github.io/public/categories/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/categories/design/</guid>
+      <guid>https://gokulmaxi.github.io/public/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://examplesite.com/categories/development/</link>
+      <link>https://gokulmaxi.github.io/public/categories/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/categories/development/</guid>
+      <guid>https://gokulmaxi.github.io/public/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>logo</title>
-      <link>https://examplesite.com/categories/logo/</link>
+      <link>https://gokulmaxi.github.io/public/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/categories/logo/</guid>
+      <guid>https://gokulmaxi.github.io/public/categories/logo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://examplesite.com/categories/sketch/</link>
+      <link>https://gokulmaxi.github.io/public/categories/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/categories/sketch/</guid>
+      <guid>https://gokulmaxi.github.io/public/categories/sketch/</guid>
       <description></description>
     </item>
     

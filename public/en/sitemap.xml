@@ -3,206 +3,206 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/tags/access/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/access/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/art/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/art/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://gokulmaxi.github.io/public/categories/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://gokulmaxi.github.io/public/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://gokulmaxi.github.io/public/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/logo/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/database/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/</loc>
+    <loc>https://gokulmaxi.github.io/public/categories/database/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/portfolio/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/portfolio/project-1/</loc>
+    <loc>https://gokulmaxi.github.io/public/categories/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/portfolio/project-2/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/portfolio/project-3/</loc>
+    <loc>https://gokulmaxi.github.io/public/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/categories/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://gokulmaxi.github.io/public/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://gokulmaxi.github.io/public/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://gokulmaxi.github.io/public/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/blog-1/</loc>
+    <loc>https://gokulmaxi.github.io/public/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/blog-2/</loc>
+    <loc>https://gokulmaxi.github.io/public/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/blog-3/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/blog-4/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/project-1/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/blog-5/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/project-2/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/blog/blog-6/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/project-3/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/web/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/project-4/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/funfacts/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/project-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/banner/</loc>
+    <loc>https://gokulmaxi.github.io/public/portfolio/project-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/call-to-action/</loc>
+    <loc>https://gokulmaxi.github.io/public/categories/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/contact/</loc>
+    <loc>https://gokulmaxi.github.io/public/tags/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gokulmaxi.github.io/public/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gokulmaxi.github.io/public/tags/"
+                />
   </url>
   
   <url>
-    <loc>https://examplesite.com/service/</loc>
+    <loc>https://gokulmaxi.github.io/public/blog/blog-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/testimonial/</loc>
+    <loc>https://gokulmaxi.github.io/public/blog/blog-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/blog/blog-3/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/blog/blog-4/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/blog/blog-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/blog/blog-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/tags/web/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/funfacts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/banner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/call-to-action/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gokulmaxi.github.io/public/testimonial/</loc>
   </url>
   
 </urlset>

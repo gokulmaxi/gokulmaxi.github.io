@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/fr/categories/</loc>
+    <loc>https://gokulmaxi.github.io/public/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://gokulmaxi.github.io/public/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
+                href="https://gokulmaxi.github.io/public/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/fr/</loc>
+    <loc>https://gokulmaxi.github.io/public/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://gokulmaxi.github.io/public/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://gokulmaxi.github.io/public/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/fr/tags/</loc>
+    <loc>https://gokulmaxi.github.io/public/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://gokulmaxi.github.io/public/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://gokulmaxi.github.io/public/fr/tags/"
                 />
   </url>
   
