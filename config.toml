@@ -77,24 +77,12 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/gokuldp"
-
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/gokuldp"
-
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/gokul_dp"
-
-[[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/gokulmaxi"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/gokula-krishnan-5017401b5/"
 
 
 ################################### English language #####################################
@@ -104,8 +92,6 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################
@@ -159,8 +145,6 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################

@@ -13,22 +13,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "IoT Lab Intern"
+      company : "IoT Lab BIT"
+      duration : "Aug '19 - Sept '19"
+      content : "Create IoT based timer control for industrial 3 phase systems and monitor various parameters from those also to store them in a database and analyse them."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
+    - name : "Automation engineer Intern"
+      company : "Sree Infotech"
       duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      content : "Create a home automation solution using mqtt/https within a local network using flutter and angular as frontend and nodejs ,mongodb for backend."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "SIH finale winner"
+      company : "Minister of Human Resource development"
+      duration : "Aug '20"
+      content : "ARIS -Accident rescue and investigation system .An intelligent and fast accident detection without relying on any existing infrastructure using self healing mesh networks."
 
 ############################### Skill #################################
 skill:

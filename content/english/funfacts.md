@@ -5,17 +5,17 @@ funfacts:
 # funfacts item loop
 - name : "HANDS TO WORK"
   image : "images/icons/works.png"
-  count : "100"
+  count : "5"
   
 # funfacts item loop
 - name : "HAPPY CLIENT"
   image : "images/icons/happy.png"
-  count : "200"
+  count : "20"
   
 # funfacts item loop
 - name : "FINISHED PROJECT"
   image : "images/icons/project.png"
-  count : "250"
+  count : "15"
   
 # funfacts item loop
 - name : "CUPS OF COFFEE"
