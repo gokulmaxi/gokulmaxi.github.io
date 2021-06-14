@@ -119,12 +119,12 @@ name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 4
-
-[[Languages.en.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
+## temperory removal of testimonial
+#[[Languages.en.menu.main]]
+#name = "Testimonial"
+#pre = "#"
+#url = "testimonial"
+#weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
