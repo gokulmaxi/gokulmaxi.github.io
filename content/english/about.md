@@ -52,10 +52,11 @@ skill:
       percentage : "70%"
 
 
+
 # custom style
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
 ---
 
-It's Gokulakrishnan, IoT and automation engineer. <br>I love to write code, it's my passoin. <br>Stay connected ........😊
+It's Gokulakrishnan, IoT and automation engineer. <br>I love to write code, it's my passion. <br>I make the things that walk and roll🤖. <br>Stay connected ........😊
