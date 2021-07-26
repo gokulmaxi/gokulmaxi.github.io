@@ -84,7 +84,9 @@ link = "https://github.com/gokulmaxi"
 icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/gokula-krishnan-5017401b5/"
 
-
+[[params.social]]
+icon = "fab fa-instagram"
+link= "https://www.instagram.com/_gokuldp/"
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
