@@ -59,4 +59,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Gokulakrishnan, IoT and automation engineer. <br>I love to write code, it's my passion. <br>I make the things that walk and roll🤖. <br>Stay connected ........😊
+Es ist Gokulakrishnan, IoT- und Automatisierungsingenieur. <br>Ich liebe es, Code zu schreiben, es ist meine Leidenschaft. <br>Ich stelle die Dinge her, die laufen und rollen 🤖. <br>Stay connected ........😊
